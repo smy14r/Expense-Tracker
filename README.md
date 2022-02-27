@@ -23,5 +23,17 @@ A full stack MERN application, which includes:
 
 <br />
 
+<div align="center">
+  
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## User Interface 
+![expense_tracker](https://user-images.githubusercontent.com/76044767/155874565-13cfd245-f9ef-4eae-89fc-fbeefdbdf9e0.png)
+  <br/>
+  
+![React App](https://user-images.githubusercontent.com/76044767/155874999-b58bb0d1-ef38-47ac-84ef-2483752d8e25.png)
+<br />
+
+## Database Management
+![Data _ Cloud_ MongoDB Cloud](https://user-images.githubusercontent.com/76044767/155875060-a70a8ca0-b574-4c71-855f-6d38fd1aaddb.png)
+
+ </div>
